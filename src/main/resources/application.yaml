@@ -6,5 +6,5 @@ spring:
       project-id: red-amarilla
 application:
   pubsub:
-    topic: projects/demo-sub/topics/test-topic
-    subscription: projects/demo-sub/subscriptions/test-sub
+    topic: projects/red-amarilla/topics/demo
+    subscription: projects/red-amarilla/subscriptions/demo-sub
