@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: gcp-pubsub-demo
+  cloud:
+    gcp:
+      project-id: red-amarilla
+application:
+  pubsub:
+    topic: projects/demo-sub/topics/test-topic
+    subscription: projects/demo-sub/subscriptions/test-sub
