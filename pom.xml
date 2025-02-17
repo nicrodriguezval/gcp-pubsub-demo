@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>gcp-pubsub-demo</artifactId>
+    <artifactId>pubsub-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>gcp-pubsub-demo</name>
     <description>gcp-pubsub-demo</description>
